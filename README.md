@@ -10,4 +10,4 @@ An Arduino-based test rig for closed-loop angle control using an
 MPU6050 sensor and a PID controller with anti-windup.
 
 [View project documentation](<PID Angle Control of a Propeller-Driven Test Rig.pdf>)
-![Propeller-driven PID test rig](PID_controlled_rig.png)
+![Propeller-driven PID test rig](pid_controlled_rig_photo.jpg)
