@@ -11,3 +11,7 @@ MPU6050 sensor and a PID controller with anti-windup.
 ![Propeller-driven PID test rig](pid_controlled_rig_demo.png)
 [View project documentation](<PID Angle Control of a Propeller-Driven Test Rig.pdf>)
 
+## Robotic Manipulator
+A robotic manipulator prototype with 3D-printed components and a stepper-driven rotating base with a custom planetary gearbox.
+
+![Robotic Manipulator](robot_manipulator.jpg)
